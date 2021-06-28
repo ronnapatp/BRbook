@@ -1,8 +1,8 @@
 # BRbook
 
 Library borrow and return book in Python
-
-# What in this BR python file
+ 
+# What in this BR python file :bookmark_tabs:
 
 - Borrow and return book system
 - Book data
@@ -11,11 +11,11 @@ Library borrow and return book in Python
 - Borrow book date
 - Return book date
 
-# Permision for use this code
+# Permision for use this code :memo:
 
 - Free
 
-# Issue problem
+# Issue problem :scroll:
 
 - Write issue in issue section I'll read that!!
 
