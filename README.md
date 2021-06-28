@@ -22,4 +22,4 @@ Library borrow and return book in Python
 
 <a href="https://github.com/ronnapatsri/BRbook" target="_blank">Click here for open link</a>
 
-:collision:
+:pushpin::pushpin::pushpin::pushpin::pushpin::pushpin::pushpin::pushpin::pushpin::pushpin::pushpin:
