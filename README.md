@@ -15,6 +15,14 @@ Library borrow and return book in Python
 
 - Free
 
+# What you can use 🤔
+
+- For website
+- For school library
+- For university library
+- For public library
+😄📌
+
 # Issue problem :scroll:
 
 - Write issue in issue section I'll read that!!
